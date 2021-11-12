@@ -1,0 +1,28 @@
+img {
+    height: 150px;
+  }
+  
+  .description {
+    font-size: 20px;
+  }
+  
+  #cook-time {
+    font-weight: bold;
+  }
+ 
+  /* targeting li under ingredients class */
+  .ingredients li {
+    list-style: square;
+  }
+  /* targeting time class under p */
+  p.time {
+    color: gray;
+  } 
+   
+  .external-link {
+    color: SeaGreen;
+  }
+  
+  h1, h2, p, li {
+    font-family: Helvetica;
+  }
