@@ -1,0 +1,56 @@
+
+.pattern {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");  
+}
+
+.brushes {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+/* used classes to change the color of text */
+.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+/* used to change background color */
+.frames {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+/* used classes to change the color of text */
+.frame2 {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+/* used to change background color  */
+.paint {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+/* used classes to change the color of text */
+.paint2 {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
